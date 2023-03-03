@@ -1,0 +1,4 @@
+def func(alist):
+    print(min(alist))
+l=[5,7,9,14,10,20,4]
+func(l)
